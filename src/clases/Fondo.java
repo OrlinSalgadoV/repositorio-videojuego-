@@ -52,5 +52,6 @@ public class Fondo extends ObjetoJuego {
 			y-=velocidad;
 	}
 	
+	
 
 }

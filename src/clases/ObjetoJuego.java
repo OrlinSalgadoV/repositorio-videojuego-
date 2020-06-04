@@ -4,8 +4,8 @@ import javafx.scene.canvas.GraphicsContext;
 
 public abstract class ObjetoJuego {
 
-	protected int x;
-	protected int y;
+	protected  int x;
+	protected  int y;
 	protected String nombreImagen;
 	protected int velocidad=5;
 	protected int ancho;
